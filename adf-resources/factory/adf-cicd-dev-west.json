@@ -1,0 +1,9 @@
+{
+	"name": "adf-cicd-dev-west",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7f9f3cf2-fd71-431d-8a3e-eda752c1e952",
+		"tenantId": "209a3d84-29ad-48ab-921a-2ef6ab4b231e"
+	}
+}
